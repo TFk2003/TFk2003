@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TFk2003
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis, I have worked on Excel, Tableau
+- I have a Google Data Analytics Certificate too for this purpose
 - 🌱 I’m currently learning Software Engineering from FAST NUCES, Karachi.
 - 💞️ I’m looking to collaborate on different platforms
 - 📫 How to reach me ...
